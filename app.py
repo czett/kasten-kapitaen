@@ -2,7 +2,7 @@ from flask import Flask, render_template, redirect, session, request
 import captain
 
 app = Flask(__name__)
-app.secret_key = "dortmunderkronenpils"
+app.secret_key = "dortmunderkronenpils" #guter key oder?
 
 @app.route("/")
 def start():
