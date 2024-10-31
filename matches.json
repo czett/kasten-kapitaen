@@ -1,0 +1,167 @@
+{
+    "pairings": [
+      {
+        "beer": "Pils",
+        "matches": [
+          { "dish": "Pizza", "match_percentage": 95 },
+          { "dish": "Sushi", "match_percentage": 85 },
+          { "dish": "Salat", "match_percentage": 80 },
+          { "dish": "Fisch", "match_percentage": 90 },
+          { "dish": "Wurst", "match_percentage": 75 },
+          { "dish": "Bratwurst", "match_percentage": 80 },
+          { "dish": "Frikadellen", "match_percentage": 70 },
+          { "dish": "Brezn", "match_percentage": 85 },
+          { "dish": "Quiche", "match_percentage": 65 },
+          { "dish": "Tacos", "match_percentage": 75 },
+          { "dish": "Nudeln", "match_percentage": 70 },
+          { "dish": "Huehnchen", "match_percentage": 80 },
+          { "dish": "Baguette", "match_percentage": 60 },
+          { "dish": "Gemuese", "match_percentage": 75 },
+          { "dish": "Schinken", "match_percentage": 65 }
+        ]
+      },
+      {
+        "beer": "Weissbier",
+        "matches": [
+          { "dish": "Obatzda", "match_percentage": 90 },
+          { "dish": "Huehnchen", "match_percentage": 85 },
+          { "dish": "Nudeln", "match_percentage": 75 },
+          { "dish": "Rind", "match_percentage": 70 },
+          { "dish": "Lachs", "match_percentage": 80 },
+          { "dish": "Apfelstrudel", "match_percentage": 95 },
+          { "dish": "Dessert", "match_percentage": 80 },
+          { "dish": "Suessigkeiten", "match_percentage": 70 },
+          { "dish": "Gulasch", "match_percentage": 75 },
+          { "dish": "Fleischbaellchen", "match_percentage": 65 },
+          { "dish": "Pasta", "match_percentage": 70 },
+          { "dish": "Kaese", "match_percentage": 85 },
+          { "dish": "Gemuesesuppe", "match_percentage": 70 }
+        ]
+      },
+      {
+        "beer": "Dunkel",
+        "matches": [
+          { "dish": "Gulasch", "match_percentage": 90 },
+          { "dish": "Steak", "match_percentage": 85 },
+          { "dish": "Burger", "match_percentage": 75 },
+          { "dish": "Wild", "match_percentage": 80 },
+          { "dish": "Braten", "match_percentage": 75 },
+          { "dish": "Rindfleisch", "match_percentage": 80 },
+          { "dish": "Schokoladendesserts", "match_percentage": 95 },
+          { "dish": "Bierbraten", "match_percentage": 85 },
+          { "dish": "Eintopf", "match_percentage": 80 },
+          { "dish": "Risotto", "match_percentage": 70 },
+          { "dish": "Kaeseplatte", "match_percentage": 75 }
+        ]
+      },
+      {
+        "beer": "Helles Lager",
+        "matches": [
+          { "dish": "Grillhaehnchen", "match_percentage": 80 },
+          { "dish": "Schnitzel", "match_percentage": 85 },
+          { "dish": "Gemuese", "match_percentage": 70 },
+          { "dish": "Spaghetti", "match_percentage": 75 },
+          { "dish": "Tortilla", "match_percentage": 60 },
+          { "dish": "Fisch", "match_percentage": 75 },
+          { "dish": "Pizza", "match_percentage": 80 },
+          { "dish": "Salat", "match_percentage": 70 },
+          { "dish": "Schweinebraten", "match_percentage": 80 },
+          { "dish": "Eintopf", "match_percentage": 75 }
+        ]
+      },
+      {
+        "beer": "IPA",
+        "matches": [
+          { "dish": "Fleisch", "match_percentage": 85 },
+          { "dish": "Tacos", "match_percentage": 90 },
+          { "dish": "Chili", "match_percentage": 80 },
+          { "dish": "Nachos", "match_percentage": 75 },
+          { "dish": "Burger", "match_percentage": 85 },
+          { "dish": "Pizza", "match_percentage": 75 },
+          { "dish": "Gegrilltes Gemuese", "match_percentage": 70 },
+          { "dish": "Pasta", "match_percentage": 70 },
+          { "dish": "Scharfe Speisen", "match_percentage": 80 },
+          { "dish": "Frikadellen", "match_percentage": 75 }
+        ]
+      },
+      {
+        "beer": "Amber Ale",
+        "matches": [
+          { "dish": "Chili", "match_percentage": 85 },
+          { "dish": "Pasta", "match_percentage": 75 },
+          { "dish": "Schnitzel", "match_percentage": 70 },
+          { "dish": "Kaeseplatte", "match_percentage": 80 },
+          { "dish": "Burger", "match_percentage": 75 },
+          { "dish": "Risotto", "match_percentage": 70 },
+          { "dish": "Eintopf", "match_percentage": 70 },
+          { "dish": "Wurst", "match_percentage": 65 },
+          { "dish": "Fisch", "match_percentage": 70 }
+        ]
+      },
+      {
+        "beer": "Bockbier",
+        "matches": [
+          { "dish": "Gulasch", "match_percentage": 90 },
+          { "dish": "Schmorgericht", "match_percentage": 85 },
+          { "dish": "Kaese", "match_percentage": 80 },
+          { "dish": "Schokolade", "match_percentage": 95 },
+          { "dish": "Wild", "match_percentage": 85 },
+          { "dish": "Rind", "match_percentage": 80 },
+          { "dish": "Eintopf", "match_percentage": 75 },
+          { "dish": "Nudeln", "match_percentage": 70 },
+          { "dish": "Burger", "match_percentage": 75 }
+        ]
+      },
+      {
+        "beer": "Pale Ale",
+        "matches": [
+          { "dish": "Grillgerichte", "match_percentage": 85 },
+          { "dish": "Burger", "match_percentage": 80 },
+          { "dish": "Pizza", "match_percentage": 75 },
+          { "dish": "Pasta", "match_percentage": 70 },
+          { "dish": "Fisch", "match_percentage": 75 },
+          { "dish": "Tacos", "match_percentage": 80 },
+          { "dish": "Scharfes Essen", "match_percentage": 75 },
+          { "dish": "Gemuese", "match_percentage": 70 }
+        ]
+      },
+      {
+        "beer": "Stout",
+        "matches": [
+          { "dish": "Schokoladendesserts", "match_percentage": 95 },
+          { "dish": "BBQ", "match_percentage": 80 },
+          { "dish": "Fleisch", "match_percentage": 85 },
+          { "dish": "Geraeuchertes", "match_percentage": 75 },
+          { "dish": "Burgers", "match_percentage": 80 },
+          { "dish": "Eiscreme", "match_percentage": 85 },
+          { "dish": "Nudeln", "match_percentage": 70 },
+          { "dish": "Fisch", "match_percentage": 65 },
+          { "dish": "Pasta", "match_percentage": 70 }
+        ]
+      },
+      {
+        "beer": "Cider",
+        "matches": [
+          { "dish": "Salat", "match_percentage": 75 },
+          { "dish": "Huehnchen", "match_percentage": 80 },
+          { "dish": "Fisch", "match_percentage": 70 },
+          { "dish": "Desserts", "match_percentage": 85 },
+          { "dish": "Obst", "match_percentage": 90 },
+          { "dish": "Tacos", "match_percentage": 70 },
+          { "dish": "Wurst", "match_percentage": 65 },
+          { "dish": "Pizza", "match_percentage": 75 }
+        ]
+      },
+      {
+        "beer": "Witbier",
+        "matches": [
+          { "dish": "Salat", "match_percentage": 80 },
+          { "dish": "Meeresfruechte", "match_percentage": 85 },
+          { "dish": "Huehnchen", "match_percentage": 75 },
+          { "dish": "Desserts", "match_percentage": 80 },
+          { "dish": "Obst", "match_percentage": 90 },
+          { "dish": "Pizza", "match_percentage": 70 }
+        ]
+      }
+    ]
+}
